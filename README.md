@@ -1,6 +1,6 @@
 # react-native-indicators
 
-![](https://raw.githubusercontent.com/nguyentc21/react-native-indicators/main/assets/react_native_indicators_exp.gif)
+![](https://raw.githubusercontent.com/nguyentc21/react-native-indicators/master/assets/react_native_indicators_exp.gif)
 
 This library serves as an alternative to [react-native-indicators](https://reactnavigation.org/), offering a modernized codebase, improved TypeScript integrations, and additional configuration options.
 It was originally inspired by the design and features of the original package.
